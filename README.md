@@ -8,3 +8,17 @@
 #### PUT /joias/{id}  
 #### DELETE /joias/{id}  
 
+#### GET /clientes 
+#### POST /clientes 
+#### GET /clientes/{id} 
+#### PUT /clientes/{id} 
+#### DELETE /clientes/{id} 
+
+#### GET /pedidos
+#### POST /pedidos
+#### GET /pedidos/{id}
+#### PUT /pedidos/{id} 
+#### DELETE /pedidos/{id}
+
+
+
